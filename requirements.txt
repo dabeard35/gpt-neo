@@ -7,10 +7,10 @@ oauth2client
 ortools
 pytest
 sacred
-tensorflow
-tensorflow-datasets
-tokenizers
-transformers
+tensorflow==2.5.1
+tensorflow-datasets==3.2.1
+tokenizers==0.9.4
+transformers==4.1.1
 tpunicorn
 absl-py
 ftfy
